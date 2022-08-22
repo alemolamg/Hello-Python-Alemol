@@ -19,10 +19,12 @@ my_scape_string = "\\tEste es un String \\n escapado"
 print(my_scape_string)
 
 # Formateo
+'''Las dos maneras mas útiles son el formateo de %, donde obligas el tipo correcto 
+a la variable y el formateo con {var}, donde la variable se añade en el momento preciso'''
 
 name, surname, age = "Brais", "Moure", 35
 print("Mi nombre es {} {} y mi edad es {}".format(name, surname, age))
-print("Mi nombre es %s %s y mi edad es %d" %(name, surname, age))
+print("Mi nombre es %s %s y mi edad es %d" % (name, surname, age))
 print("Mi nombre es " + name + " " + surname + " y mi edad es " + str(age))
 print(f"Mi nombre es {name} {surname} y mi edad es {age}")
 
@@ -62,4 +64,4 @@ print("1".isnumeric())
 print(language.lower())
 print(language.lower().isupper())
 print(language.startswith("Py"))
-print("Py" == "py") # No es lo mismo
+print("Py" == "py")  # No es lo mismo
