@@ -26,7 +26,7 @@ print("Hola " * int(my_float))
 ### Operadores Comparativos ###
 
 # Operaciones con enteros
-print(3 > 4) 
+print(3 > 4)
 print(3 < 4)
 print(3 >= 4)
 print(4 <= 4)
@@ -34,10 +34,10 @@ print(3 == 4)
 print(3 != 4)
 
 # Operaciones con cadenas de texto
-print("Hola" > "Python") 
+print("Hola" > "Python")
 print("Hola" < "Python")
-print("aaaa" >= "abaa") # Ordenación alfabética por ASCII
-print(len("aaaa") >= len("abaa")) # Cuenta caracteres
+print("aaaa" >= "abaa")  # Ordenación alfabética por ASCII
+print(len("aaaa") >= len("abaa"))  # Cuenta caracteres
 print("Hola" <= "Python")
 print("Hola" == "Hola")
 print("Hola" != "Python")
