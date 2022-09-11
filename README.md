@@ -8,9 +8,9 @@
 ##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
 
 > ---
-> **🔴 PRÓXIMA CLASE: Miércoles 31 de Agosto a las 20:00 (hora España)**
+> **🔴 PRÓXIMA CLASE: Jueves 15 de Agosto a las 20:00 (hora España)**
 > 
-> En [Discord](https://discord.gg/B4SGGAQqKZ?event=1012325339160125491) tienes creado un evento para que consultes la hora de tu país y añadas un recordatorio.
+> En [Discord](https://discord.gg/CY7zTpbQ?event=1017723765368553562) tienes creado un [evento](https://discord.gg/CY7zTpbQ?event=1017723765368553562) para que consultes la hora de tu país y añadas un recordatorio.
 > 
 > *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
 > 
@@ -25,6 +25,10 @@
 	* Listas y tuplas.
 * Clase 4 (24/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1571410092)
 	* Sets y diccionarios.
+* Clase 5 (31/08/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1578036618)
+	* Condicionales y bucles.
+* Clase 6 (08/09/22): [Vídeo en Twitch con la clase completa](https://www.twitch.tv/videos/1585369113)
+	* Funciones y clases.
 
 ---
 
@@ -34,7 +38,7 @@
 	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
 
 * **¿Se subirá a YouTube?**
-	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube.
+	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases en YouTube editadas.
 
 * **¿Harás un curso?**
 	* Si la serie en Twitch recibe apoyo puedo plantearme crear algún vídeo de iniciación resumiendo los conceptos en YouTube.
@@ -44,7 +48,7 @@
 
 * **¿Cuándo será la próxima clase?**
 	* Te recomiendo que me sigas en redes, sobre todo en [Discord](https://discord.gg/mouredev) e [Instagram](https://instagram.com/mouredev) donde creo eventos a diario con la hora de emisión (así podrás ver qué hora es en tu país).
-	* También he creado en el Discord un canal "Python" para que puedas comentar lo que quieras.
+	* También he creado en el Discord un canal "🐍curso-python" para que puedas comentar lo que quieras.
 	* Una vez finalizada la clase subiré los ficheros de código a este repositorio.
 
 ---
@@ -58,11 +62,15 @@
 
 ---
 
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
 ### Freelance full-stack iOS & Android engineer
